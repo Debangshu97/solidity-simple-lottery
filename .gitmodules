@@ -5,3 +5,5 @@
 	path = lib/chainlink-brownie-contracts
 [submodule "lib/solmate"]
 	path = lib/solmate
+[submodule "lib/foundry-devops"]
+	path = lib/foundry-devops
